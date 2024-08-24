@@ -3,10 +3,6 @@
 <img align='right' alt='coding' width='200' src='https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952glt9l3w44y9fx3jfjuhj8nwvbsbrdf9q3n4plu0p&ep=v1_gifs_search&rid=200w.gif&ct=g' /> 
 
 
-- 👨‍💻 All of my projects are available at [https://amaan-tc7y.onrender.com/](https://amaan-tc7y.onrender.com/)
-
-- 💬 Ask me about **MERN Stack**
-
 - 📫 How to reach me **ansari028amaan@gmail.com**
 
 - ⚡ Fun fact **Exploring the matrix of tech, turning ideas into code, and code into innovation.**
