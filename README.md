@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack Web developer from Mumbai </h3>
 
 
-- 📫 How to reach me **ansari028amaan@gmail.com**
+- 📫 **ansari028amaan@gmail.com**
 
-- ⚡ Fun fact **Exploring the matrix of tech, turning ideas into code, and code into innovation.**
+- ⚡ **Exploring the matrix of tech, turning ideas into code, and code into innovation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
