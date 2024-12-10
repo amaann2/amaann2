@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaan Ansari</h1>
-<h3 align="center">A passionate full stack Web developer from Mumbai </h3>
+<h3 align="center">A Passionate Software Developer from Mumbai </h3>
 
 
 - 📫 **ansari028amaan@gmail.com**
