@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaan Ansari</h1>
 <h3 align="center">A passionate full stack Web developer from Mumbai </h3>
-<img align='right' alt='coding' width='200' src='https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952glt9l3w44y9fx3jfjuhj8nwvbsbrdf9q3n4plu0p&ep=v1_gifs_search&rid=200w.gif&ct=g' /> 
 
 
 - 📫 How to reach me **ansari028amaan@gmail.com**
